@@ -6,5 +6,4 @@
 1. http://localhost:9216/metrics
 2. http://localhost:9090/targets
 3. http://localhost:9090/graph
-3.1. mongodb_up
-3.2. mongodb_connections
+4. mongodb_up / mongodb_connections
